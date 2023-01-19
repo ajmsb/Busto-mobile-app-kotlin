@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/search"
+        android:icon="@drawable/ic_baseline_search_24"
+        android:title="Search"
+        app:showAsAction="collapseActionView|ifRoom"
+        app:actionViewClass="android.widget.SearchView"
+        >
+    </item>
+    <item
+        android:id="@+id/login_icon"
+        android:icon="@drawable/ic_baseline_account_circle_24_white"
+        android:title="Login"
+        app:showAsAction="ifRoom"
+        >
+    </item>
+    <item
+        android:id="@+id/settings"
+        android:title="Settings"
+        app:showAsAction="never"
+        >
+    </item>
+    <item
+        android:id="@+id/map"
+        android:title="Map"
+        app:showAsAction="never"
+        >
+    </item>
+    <item
+        android:id="@+id/bus_stops"
+        android:title="Bus Stops"
+        app:showAsAction="never"
+        >
+    </item>
+    <item
+        android:id="@+id/Logout"
+        android:title="Log Out"
+        app:showAsAction="never"
+        >
+    </item>
+</menu>

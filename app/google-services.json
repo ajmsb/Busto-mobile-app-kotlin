@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "587378358193",
+    "firebase_url": "https://busto-ace4a-default-rtdb.firebaseio.com",
+    "project_id": "busto-ace4a",
+    "storage_bucket": "busto-ace4a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:587378358193:android:f80e768cea7d37833e6f90",
+        "android_client_info": {
+          "package_name": "com.example.busto"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "587378358193-atu0t1q4o1qv7u9tke0j59v7d04kikai.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-gzHUh8dkfSuOzDUDk9crcsXZS0EQG1s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "587378358193-atu0t1q4o1qv7u9tke0j59v7d04kikai.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

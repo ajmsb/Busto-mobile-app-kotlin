@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Busto</string>
+    <string name="old_password">Old Password</string>
+    <string name="new_password">New Password</string>
+    <string name="change_your_information">Change your information</string>
+    <string name="you_have_1_warning_s">You have 1 warning(s)</string>
+    <string name="email">Email</string>
+    <string name="bus_card_number">Bus Card Number</string>
+    <string name="save">Save</string>
+    <string name="delete_account">Delete Account</string>
+    <string name="register">Register</string>
+    <string name="password">Password</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="UserIconDescirption">UserIcon</string>
+    <string name="login">Login</string>
+    <string name="no_account_yet">Don\'t have an account yet?</string>
+    <string name="bus_number">10</string>
+    <string name="line_name">Koskela-Heikinharju</string>
+    <string name="stop_location">Stop at my location</string>
+    <string name="i_agree_to_terms_and_conditions">I agree to terms and conditions</string>
+    <string name="card_id">Card ID</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoidDl2aWhlMDAiLCJhIjoiY2tuN2EzaXhhMG00NTJ4cDl6b3U2em9vNiJ9.NxHPuHZR4LdJtoB5hq3x8A</string>
+    <string name="new_password_again">New Password Again</string>
+    <string name="hello">Hello!</string>
+</resources>
